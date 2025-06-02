@@ -15,7 +15,6 @@
 7. [What Makes This Course Different?](#what-makes-this-course-different)
 8. [How to Navigate This Course](#how-to-navigate-this-course)
 9. [Final Thoughts Before You Dive In](#final-thoughts-before-you-dive-in)
-10. [Quiz Time! 🧠](#quiz-time-)
 
 ---
 
@@ -139,7 +138,7 @@ If something feels unclear early on — don't worry. Concepts like B-Trees or MV
 
 Learning how databases work is transformational. It will change how you write queries, how you design applications, and how you think about performance, security, and scale.
 
-So treat this course like a reference book — something to return to as your career evolves. Don't rush. Don't just watch. Think.
+So treat this course like a reference book — something to return to as your career evolves. Don't rush. Don't just read. Think.
 
 Start asking:
 - Why does this concept exist?
@@ -150,16 +149,5 @@ Start asking:
 
 ---
 
-[⬅️ Back to Course Index](README.md)
-
----
-
-## Quiz Time! 🧠
-
-1. **What are the prerequisites for this course, and why are they important?**
-2. **List three core pillars of database engineering covered in this course.**
-3. **Why is this course different from a typical SQL tutorial?**
-
----
-
-➡️ Next: [ACID Properties in Database Systems](02-acid-properties.md)
+[⬅️ Previous: Course Index](README.md) | 
+[➡️ Next: ACID Properties in Database Systems](02-acid-properties.md)
