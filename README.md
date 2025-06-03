@@ -2,6 +2,9 @@
 
 Welcome to your journey through the world of database systems! Use this index to navigate the course, jump to any chapter, or revisit topics as needed.
 
+
+![Database Systems Course Banner](assets/db-fundamentals-cover.png)
+
 ---
 
 ## 👨‍💻 Meet Your Instructor
