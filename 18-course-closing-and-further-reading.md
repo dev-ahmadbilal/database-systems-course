@@ -62,6 +62,7 @@ Throughout this course, you have explored:
 
 **Recommended Resources:**
 - [Database Internals by Alex Petrov](https://www.databass.dev/)
+- [Fundamentals of Database Engineering](https://www.udemy.com/share/102qug/)
 - [High Performance MySQL](https://www.oreilly.com/library/view/high-performance-mysql/9781449332471/)
 - [PostgreSQL Official Documentation](https://www.postgresql.org/docs/)
 - [Jepsen.io](https://jepsen.io/)
